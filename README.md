@@ -14,4 +14,4 @@
 
 [tzungtzu官网](www.tzungtzu.com "tzungtzu cms")
 
-tzungtzu的QQ交流群：494589054欢迎加入
+[QQ交流群：494589054](https://jq.qq.com/?_wv=1027&k=45MLLbS "QQ交流群：494589054")
