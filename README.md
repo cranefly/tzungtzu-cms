@@ -11,3 +11,7 @@
 进入后台可修改管理员密码
 
 3）后台访问地址 域名/webmaster
+
+[tzungtzu官网](www.tzungtzu.com "tzungtzu cms")
+
+tzungtzu的QQ交流群：494589054欢迎加入
