@@ -15,6 +15,6 @@
 
 3）后台访问地址 域名/webmaster
 
-[tzungtzu官网](www.tzungtzu.com "tzungtzu cms")
+[tzungtzu官网](http://www.tzungtzu.com "tzungtzu cms")
 
 [QQ交流群：494589054](https://jq.qq.com/?_wv=1027&k=45MLLbS "QQ交流群：494589054")
