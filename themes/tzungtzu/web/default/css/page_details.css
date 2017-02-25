@@ -1,0 +1,129 @@
+.de_head{
+    background: #54ba22;
+    color: #fff;padding: 0.3rem 0;
+}
+.de_head h2{
+    font-size: 0.45rem;line-height: 0.67rem;
+}
+.de_head .iconfont{
+    font-size: 0.5rem;
+}
+.de_head_right{
+    padding: 0;font-size: 0.5rem;
+}
+.de_head_img{
+    padding: 0;width: 100%;
+}
+img{
+    width: 100%;
+}
+.de_h{
+    font-size: 0.4rem;padding: 0.2rem 0.35rem;
+    font-weight: bold;background: #fff;
+}
+.rele_time{
+    color: #7a7a7a;;background: #fff;font-size: 0.45rem;padding:0;
+}
+.de_title{
+    padding: 0.25rem 0.3rem;background: #fff;
+    margin-bottom: 0.3rem;
+}
+.de_title span{
+    border: solid 1px #a6ce6e;border-radius:4px;
+    color: #333;font-weight:600;font-size: 0.35rem;
+}
+.de_hous{
+    background: #fff;font-weight: 600;padding: 0.35rem 0.25rem;
+}
+.de_money{
+    font-size: 0.5rem;
+    color: #f16846;
+}
+.de_housing{
+    border-bottom: solid 1px #ccc;background: #fff;
+    padding: 0.15rem 0.3rem 0.35rem 0.3rem;
+    font-size: 0.45rem;
+}
+.de_housing div{
+    padding: 0.1rem 10px;font-weight: bold;
+}
+.de_gd{
+    background: #fff;padding: 0.3rem 0;
+    font-size: 0.4rem;font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+.de_xq_left,.de_diz_left{
+    letter-spacing:0.65rem;color: #666;
+}
+.de_diz,.de_xq{
+    background: #fff;font-weight: bold;font-size: 0.45rem;
+}
+.de_xq>div{
+    padding:0.35rem 0;border-bottom: 1px solid #ccc;
+}
+.de_diz_left,.de_diz_right{
+    padding:0.35rem 0;
+}
+.de_diz_right div{
+    padding: 0;
+}
+.de_diz_right .de_wz{
+    color: #42be39;font-size: 0.45rem;
+}
+.de_lxr {
+    background: #fff;
+    padding: 0.3rem 0;
+    font-size: 0.4rem;
+    font-weight: bold;
+    margin-top: 0.3rem;
+}
+.de_lxr_left{
+    letter-spacing: 0.2rem;color: #666;
+}
+.de_lxr_right{
+    padding: 0;
+}
+.de_shop{
+    color: #54ba22;padding-left: 0.2rem;
+}
+.de_tit{
+    padding: 0.3rem 0.35rem;background: #fff;
+    font-size: 0.4rem;font-weight: bold;color: #e2904e;
+}
+.de_pj h2{
+    font-size: 0.45rem;padding: 0.2rem 0;font-weight: 600;
+}
+.de_pj span{
+    padding-left: 0.4rem;
+}
+.de_pj .iconfont{
+    letter-spacing:-0.2rem;font-size: 0.5rem;float: left;
+}
+.de_tel_left{
+    width:48%;float: left;
+    border-radius:4px;padding: 0.3rem 0;
+    background: #e7f4da;text-align: center;
+    font-size: 0.4rem;margin-top: 0.2rem;
+}
+.de_col{
+    color: #fe9962;
+}
+.de_ico_right{
+    font-size: 0.37rem;padding-left: 0.1rem;text-align: center;
+}
+.de_pj span{
+    float: left;
+    margin-top:0.09rem;
+}
+.de_tel,.de_pj{
+    background: #fff;padding-bottom: 0.3rem;
+}
+.de_tel_right{
+    width: 48%;
+    border-radius:4px;padding: 0.3rem 0;
+    background: #58b922;text-align: center;
+    font-size: 0.4rem;float: right;;margin-top: 0.2rem;
+}
+.de_ico_right .iconfont{
+    margin-right: 0.4rem;font-size: 0.4rem;
+}

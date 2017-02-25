@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> 
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<title>糟糕…小白已经把这个页面给弄丢了，可能已经找不回来了！</title>
+<link rel="stylesheet" type="text/css" href="static/css/404.css" />
+</head>
+<body>
+<div class="bg">
+	<div class="cont">
+		<div class="c1"><img src="static/img/photos/01.png" class="img1"></div>
+		<h2>这个页面被弄丢了，可能已经找不回来了！</h2>
+		<div class="c3">不过 ... 你还可以尝试以下操作：</div>
+		<div class="c2"><a href="javascript:history.go(-1);" class="re">返回操作</a><a href="http://www.jiasu.cloud/" class="home">网站首页</a></div>
+
+	</div>
+</div>
+</body>
+</html>

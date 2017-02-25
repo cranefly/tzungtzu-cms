@@ -1,0 +1,16 @@
+$(function(){
+	Rank.tabs({"params":
+	[
+		{"nav":"#tab_1","con":"#con_1","sclass":"current","nclass":""},										
+		{"nav":"#tab_2","con":"#con_2","sclass":"current","nclass":""},										
+		{"nav":"#tab_3","con":"#con_3","sclass":"current","nclass":""},										
+		{"nav":"#tab_4","con":"#con_4","sclass":"current","nclass":""},	
+		{"nav":"#tab_5","con":"#con_5","sclass":"current","nclass":""},	
+		{"nav":"#tab_6","con":"#con_6","sclass":"current","nclass":""},	
+		{"nav":"#tab_7","con":"#con_7","sclass":"current","nclass":""},
+		{"nav":"#tab_8","con":"#con_8","sclass":"current","nclass":""},
+		{"nav":"#tab_9","con":"#con_9","sclass":"current","nclass":""},
+		{"nav":"#tab_10","con":"#con_10","sclass":"current","nclass":""}
+	]
+	});
+})

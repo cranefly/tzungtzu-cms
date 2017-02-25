@@ -1,0 +1,13 @@
+.DS_Store
+
+#applications/tzungtzu/config/database.php
+
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
