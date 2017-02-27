@@ -56,7 +56,7 @@ class Adverts extends Master_Controller
 		parent::__construct();
 		
 		$this->ControllerTitle = $this->lang_current['controller_title'];
-        $this->add_js('tzwechat/libs/datepicker.js');
+        $this->add_js('libs/datepicker.js');
 	}
 
 	/**

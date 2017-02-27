@@ -652,7 +652,7 @@ CREATE TABLE IF NOT EXISTS `tz_sessions` (
 -- start install data
 -- 管理组
 INSERT INTO tz_user_group
-(id, g_name, g_urank, g_remark, g_state, cdate, is_admin_g) 
+(id, g_name, g_urank, g_remark, g_state, is_admin_g) 
 VALUES 
 (1, '系统管理组', 'SUPER', '', 0, 1),
 (2, '运维管理组', 'SUPER', '', 0, 1),
@@ -660,9 +660,9 @@ VALUES
 
 -- 用户
 INSERT INTO tz_user
-(id, uname, group_id, upass, unick, cdate, is_admin) 
+(id, uname, group_id, upass, unick, is_admin) 
 VALUES 
-(1, 'admin', '1', '31bd59df36f5f3048a0d48b534463ef7', '赛亚人', 0, 1),
+(1, 'admin', '1', '31bd59df36f5f3048a0d48b534463ef7', '赛亚人', 1),
 (2, 'webmaster', '2', '56263ab2ca50c045a1b6c8ec81306d05', '行走的树', 1);
 
 -- 默认模型字段
